@@ -2,7 +2,6 @@ import os
 import shutil
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QPushButton, QLabel, QListWidget, QMessageBox
 from PyQt5.QtCore import Qt, QSettings
-from PyQt5.QtGui import QPixmap
 import sys
 
 def greet_user():
@@ -128,6 +127,9 @@ class CacheManagerApp(QMainWindow):
                 QPushButton:hover {
                     background-color: #005EA6;
                 }
+                QLabel {
+                    color: black;
+                }
             """)
         elif theme == "dark":
             self.setStyleSheet("""
@@ -142,6 +144,9 @@ class CacheManagerApp(QMainWindow):
                 }
                 QPushButton:hover {
                     background-color: #666;
+                }
+                QLabel {
+                    color: white;
                 }
             """)
 
