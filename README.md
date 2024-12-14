@@ -12,7 +12,7 @@ Installation
 Download the latest release from the Releases page.
 Extract the contents and run the executable.
 
-Usage
+Usage:-
 
 Simply run the program and select the cleaning options you want to use. The tool will automatically detect the appropriate cache and files to remove.
 Compatibility
