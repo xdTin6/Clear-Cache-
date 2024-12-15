@@ -20,3 +20,12 @@ Simply run the program and select the cleaning options you want to use. The tool
 
 macOS 10.12 or later
 Adobe Creative Cloud apps (for Adobe media cache cleaner)
+
+# Appearence
+Visual Appeal: Users are more likely to download your app when they see how clean and simple it looks.
+Clarity: Screenshots help users understand the app's functionality before trying it.
+Professional Touch: Adding images makes your repository look polished and well-documented.
+
+![App Screenshot - Light Mode](/Users/yatin/Documents/Programming/GitHub Repo/Clear-Cache-/Images/Screenshot Light Mode.png)
+![App Screenshot - Dark Mode](/Users/yatin/Documents/Programming/GitHub Repo/Clear-Cache-/Images/Screenshot Dark Mode.png)
+
