@@ -1,31 +1,51 @@
-# Mac Cache Cleaner & Adobe Media Cache Cleaner
+# Cache Manager
 
-This lightweight tool helps optimize your Mac by cleaning cache files and removing unnecessary residual data. It supports clearing system cache, deleted app secret folders, and Adobe media cache, all designed to reclaim storage space and improve system performance.
-Features
+A lightweight and simple tool to help manage and clear cache on your Mac.
 
-Mac Cache Cleaner: Clears system and application cache.
-Deleted App Secret Folder Remover: Removes leftover folders from deleted apps.
-Adobe Media Cache Cleaner: Deletes media cache from Adobe products like Premiere Pro and After Effects.
+---
 
-# Installation
+## Features
 
-Download the latest release from the Releases page.
-Extract the contents and run the executable.
+- **Clear System Cache**: Frees up system space by removing unnecessary cache files.
+- **Delete App Folder**: Clears leftover folders of deleted apps.
+- **Clear Adobe Media Cache**: Removes Adobe media cache to optimize storage.
+- **Toggle Theme**: Switch between Light Mode and Dark Mode for a better experience.
 
-# Usage:-
+---
 
-Simply run the program and select the cleaning options you want to use. The tool will automatically detect the appropriate cache and files to remove.
+## Screenshots
 
-# Compatibility
+### Light Mode
+![App Screenshot - Light Mode](images/screenshot_light_mode.png)
 
-macOS 10.12 or later
-Adobe Creative Cloud apps (for Adobe media cache cleaner)
+### Dark Mode
+![App Screenshot - Dark Mode](images/screenshot_dark_mode.png)
 
-# Appearence
-Visual Appeal: Users are more likely to download your app when they see how clean and simple it looks.
-Clarity: Screenshots help users understand the app's functionality before trying it.
-Professional Touch: Adding images makes your repository look polished and well-documented.
+---
 
-![App Screenshot - Light Mode](/Users/yatin/Documents/Programming/GitHub Repo/Clear-Cache-/Images/Screenshot Light Mode.png)
-![App Screenshot - Dark Mode](/Users/yatin/Documents/Programming/GitHub Repo/Clear-Cache-/Images/Screenshot Dark Mode.png)
+## How to Use
 
+1. **Download** the latest release `.dmg` file from the [Releases](https://github.com/xdTin6/Clear-Cache-/releases/tag/v1.0.0) section.
+2. **Install** the app on your Mac.
+3. Open the app and click the desired button:
+   - **Clear System Cache** to clean system files.
+   - **Delete App Folder** to clear unused app data.
+   - **Clear Adobe Media Cache** to remove media leftovers.
+
+---
+
+## Download
+
+Click [here](https://github.com/xdTin6/Clear-Cache-/releases/tag/v1.0.0) to download the app.
+
+---
+
+## Contributing
+
+Feel free to open issues or create pull requests if you’d like to improve the app.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
