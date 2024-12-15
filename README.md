@@ -16,10 +16,10 @@ A lightweight and simple tool to help manage and clear cache on your Mac.
 ## Screenshots
 
 ### Light Mode
-![App Screenshot - Light Mode](images/screenshot_light_mode.png)
+![App Screenshot - Light Mode](Images/Screenshot Light Mode.png)
 
 ### Dark Mode
-![App Screenshot - Dark Mode](images/screenshot_dark_mode.png)
+![App Screenshot - Dark Mode](Images/Screenshot Dark Mode.png)
 
 ---
 
