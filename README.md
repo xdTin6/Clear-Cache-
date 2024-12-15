@@ -50,4 +50,4 @@ Feel free to open issues or create pull requests if you’d like to improve the 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
