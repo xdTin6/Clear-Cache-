@@ -67,7 +67,7 @@ class CacheManagerApp(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Cache Manager")
-        self.setGeometry(200, 200, 500, 400)
+        self.setGeometry(200, 200, 400, 400)
 
         # Persistent settings
         self.settings = QSettings("CacheManagerApp", "Settings")
